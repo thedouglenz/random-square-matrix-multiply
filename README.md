@@ -1,6 +1,6 @@
 # random-square-matrix-multiply
 
-In this project, I have written the same program in various different languages.
+In this project, I have written the same program in various different languages. So far, the languages used are C, JavaScript, Python and PHP. The programs should do the exact same thing. I have chosen **dot product of two very large square matrices** as the task. The programs should then be run with the `time ` linux shell program to time their execution. Then a comparison can be made about which language performs faster.
 
 ### The program works like this:
 
